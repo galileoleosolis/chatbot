@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<topic name="FAVORITE FOOD">
+	<category>
+		<pattern>WHAT'S YOUR FAVORITE FOOD</pattern>
+		<that>ARE YOU ASKING ABOUT MY FAVORITE</that>
+		<template>FOOD</template>
+	</category>
+</topic>
+
+</aiml>
